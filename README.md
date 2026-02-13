@@ -27,7 +27,7 @@ Some of the projects in this repository include:
 - 🖥 Interactive Dashboards – Dynamic dashboards with slicers and filters
 (More projects will be added regularly)
 
-🔍 Key Features:
+## 🔍 Key Features:
 - Data cleaning and handling missing or inconsistent values
 - Aggregation using Pivot Tables
 - Visualizations using Excel charts
@@ -54,18 +54,21 @@ git clone https://github.com/your-username/Excel-Data-Analysis-Dashboard-Project
 - Add Power BI integration for dashboards
 - Improve dashboard designs and interactivity
 
-👨‍💻 Author<br>
+## 👨‍💻 Author<br>
 Vaibhav Dhakulkar<br>
 Data Analyst | Excel | Power BI | SQL | Python
 
-⭐ Support:
+## ⭐ Support:
 If you find this repository useful, please consider supporting me by:
 - ⭐ Starring this repository
 - 👍 Liking and sharing my projects
 - 🔁 Sharing with your friends and network
 - 💬 Giving your valuable feedback<br>
 
+## 📧 Contact:
+📌 Email: vaibhavdhakulkar1998@gmail.com<br>
 📌 Follow me on LinkedIn: https://www.linkedin.com/in/vaibhavdhakulkar25<br>
 📌 Subscribe to my YouTube channel: https://www.youtube.com/@VaibhavRajAsha<br>
 
-Your support motivates me to create more data analysis projects and learning content. Thank you! 🙏
+Your support motivates me to create more data analysis projects and learning content.<br>
+Thank you! 🙏
