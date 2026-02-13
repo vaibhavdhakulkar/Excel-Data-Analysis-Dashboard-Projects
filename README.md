@@ -63,9 +63,9 @@ If you find this repository useful, please consider supporting me by:
 - ⭐ Starring this repository
 - 👍 Liking and sharing my projects
 - 🔁 Sharing with your friends and network
-- 💬 Giving your valuable feedback
+- 💬 Giving your valuable feedback<br>
 
-📌 Follow me on LinkedIn: https://www.linkedin.com/in/vaibhavdhakulkar25
-📌 Subscribe to my YouTube channel: https://www.youtube.com/@VaibhavRajAsha
+📌 Follow me on LinkedIn: https://www.linkedin.com/in/vaibhavdhakulkar25<br>
+📌 Subscribe to my YouTube channel: https://www.youtube.com/@VaibhavRajAsha<br>
 
 Your support motivates me to create more data analysis projects and learning content. Thank you! 🙏
